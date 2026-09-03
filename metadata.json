@@ -1,0 +1,6 @@
+{
+  "name": "SAHAKAAR SETU",
+  "description": "Digital operating system for labour cooperatives connecting customers, businesses, and institutions with verified skilled workers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
