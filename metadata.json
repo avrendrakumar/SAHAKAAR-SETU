@@ -1,0 +1,6 @@
+{
+  "name": "Sahakaar Setu",
+  "description": "Trusted Skills. Fair Work. Stronger Communities. Digital Operating System for Labour Cooperatives connecting customers, workers, cooperatives and institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
